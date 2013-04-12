@@ -1,1 +1,1 @@
-# Font-Weights-object BEM Methodology
+# Font-object BEM Methodology
