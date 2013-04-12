@@ -1,0 +1,71 @@
+/**
+ * Text alignment
+ */
+.text--left {
+  text-align: left !important; }
+
+.text--center {
+  text-align: center !important; }
+
+.text--right {
+  text-align: right !important; }
+
+.text--justify {
+  text-align: justify !important; }
+
+/**
+ * Text transform
+ */
+.transform--UC {
+  text-transform: uppercase !important; }
+
+.transform--lc {
+  text-transform: lowercase !important; }
+
+.transform--capitalized {
+  text-transform: capitalize !important; }
+
+/**
+ * Text decoration
+ */
+.text--overline {
+  text-decoration: overline !important; }
+
+.text--underline {
+  text-decoration: underline !important; }
+
+.text--line-through {
+  text-decoration: line-through !important; }
+
+/**
+ * Font style
+ */
+.font--italic {
+  font-style: italic !important; }
+
+.font--oblique {
+  font-style: oblique !important; }
+
+/**
+ * Font weights
+ */
+.weight--light {
+  font-weight: 300 !important; }
+
+.weight--normal {
+  font-weight: 400 !important; }
+
+.weight--semibold {
+  font-weight: 600 !important; }
+
+.weight--bold {
+  font-weight: 700 !important; }
+
+.weight--ultrabold {
+  font-weight: 900 !important; }
+
+/**
+ * Small-caps
+ */
+.small-caps {
+  font-variant: small-caps !important; }
