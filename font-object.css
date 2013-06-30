@@ -22,7 +22,7 @@
 .transform--lc {
   text-transform: lowercase !important; }
 
-.transform--capitalize {
+.transform--cap {
   text-transform: capitalize !important; }
 
 /**
